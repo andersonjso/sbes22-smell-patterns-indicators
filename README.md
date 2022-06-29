@@ -39,12 +39,12 @@ The forms used in our study can be found in the folder [`/forms`](https://github
 [**Post-Study Interview - Formulários Google.pdf**](https://github.com/sbes22patterns/smell-patterns/blob/main/forms/Post-Study%20Interview%20-%20Formul%C3%A1rios%20Google.pdf): Form used during the quasi-experiment as a post-study interview
 
 ### Automated Tool
-The tool that we developed is available in the folder [`automated tool`](https://github.com/sbes22patterns/smell-patterns/tree/main/automated%20tool). It contains:
+The tool that we developed is available in the folder [`/automated tool`](https://github.com/sbes22patterns/smell-patterns/tree/main/automated%20tool). It contains:
  a [**README.pdf**](https://github.com/sbes22patterns/smell-patterns/blob/main/automated%20tool/README.pdf) that explains how to run our tool, available in the zipped file [**degradation-experiment-v0.1.1-OPT.zip**](https://github.com/sbes22patterns/smell-patterns/blob/main/automated%20tool/degradation-experiment-v0.1.1-OPT.zip). The training used in our quasi-experiment is found in [**Training.pdf**](https://github.com/sbes22patterns/smell-patterns/blob/main/automated%20tool/Training.pdf)
 
 ### Codes and Categories Derived From the Qualitative Analysis
 The groups and categories
-created during our qualitative analysis are presented in the folder [`codes and categories`](https://github.com/sbes22patterns/smell-patterns/tree/main/codes%20and%20categories). The folder has the following files:
+created during our qualitative analysis are presented in the folder [`/codes and categories`](https://github.com/sbes22patterns/smell-patterns/tree/main/codes%20and%20categories). The folder has the following files:
 
 [**There is Degradation Problem and Accepted Refactoring**](https://github.com/sbes22patterns/smell-patterns/blob/main/codes%20and%20categories/There%20is%20Degradation%20Problem%20and%20Accepted%20Refactoring.png): This shows the codes created that led us to understand the cases in which the developers accepted that there was a degradation problem and accepted the refactorings proposed.
 

@@ -1,0 +1,6 @@
+﻿Examples of Open Source projects that can be used in the study:
+
+
+https://github.com/ssaring/sportstracker
+https://github.com/tsantalis/JDeodorant
+https://github.com/hibernate/hibernate-orm (it is recommended to select only one sub-project as it takes longer to process)

@@ -52,6 +52,37 @@ created during our qualitative analysis are presented in the folder [`/codes and
 
 [**There is No Degradation Problem.png**](https://github.com/sbes22patterns/smell-patterns/blob/main/codes%20and%20categories/There%20is%20No%20Degradation%20Problem.png): This shows the codes created that led us to understand the cases in which the developers said that there was no degradation problem.
 
+### Controlled Experiment
+For **RQ1: Are Smell Patterns Indicators of Degradation?**, we have the following:
+
+Null hypothesis
+- H0: "smell patterns do not indicate degradation"
+
+As alternative hypotheses, we have the following:
+- H1.: Single Smell Patterns are indicators of degradation
+- H2.: Multiple Smell Patterns are indicators of degradation
+
+For **RQ2: Can Smell-Patterns Indicate Refactoring Opportunities?**, we have the following:
+Null hypothesis
+- H0: "smell patterns can not indicate refactoring opportunities"
+
+As alternative hypotheses, we have the following:
+- H1.: Single Smell Patterns can indicate refactoring opportunities
+- H2.: Multiple Smell Patterns can indicate refactoring opportunities
+
+Independent Variables:
+- Software Systems
+- Familiarity with Software Systems
+- Use of SSP
+- Use of MSP
+- Use of Other Combination of Smells
+
+Dependent Variables:
+- Presence of Degradation (RQ1)
+- Acceptance of Refactoring Opportunities (RQ2) (R3)
+
+
+
 ### References
 [1] Bavota, G., Lucia, A.D., Penta, M.D., Oliveto, R., Palomba, F.: An experimental investigation on the innate relationship between quality and refactoring. Journal of Systems and Software 107, 1 { 14 (2015). DOI http://dx.doi.org/10.1016/j.jss.2015.05.024. URL http://www.sciencedirect.com/science/article/pii/S0164121215001053
 

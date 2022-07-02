@@ -81,6 +81,17 @@ Dependent Variables:
 - Presence of Degradation (RQ1)
 - Acceptance of Refactoring Opportunities (RQ2) (R3)
 
+### Participants answers suumarized
+
+The following table presents the summarized developers summarized answers.
+
+The second column presents how many times (from the 6 cases) the developer agreed with the presence of a degradation problem. 
+
+The third and fourth columns show how many times the developer considered the problem to be on an implementation or architectural level.
+
+The fifth and Sixth columns show how many times developers agreed or partially agreed with the refactoring proposed.
+
+![Screenshot from 2022-07-02 13-09-29](https://user-images.githubusercontent.com/105753798/177008101-989bd917-6fa0-4a55-acc6-067fcbc26d81.png)
 
 
 ### References

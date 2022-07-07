@@ -81,6 +81,9 @@ Dependent Variables:
 - Presence of Degradation (RQ1)
 - Acceptance of Refactoring Opportunities (RQ2) (R3)
 
+### Familiarity of Participants with the Systems
+We asked the developers to provide their degree of familiarity with the systems analyzed. We have a scale ranging from "No Experience" to "Very High Experience". Those developers with some degree with experience are the ones that had contributed in some way to the system. This contribution is defined by the participant being part of the source code development. The participant with no experience are the ones who did not contribute with the source code but have knowledge of the source code and design of the system. These participants chose the system to be analyzed since they used it for research purposes.
+
 ### Summary of Participants Answers
 
 The following table presents a summary of developers' answers.
